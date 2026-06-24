@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.claude/
+*.log
+node_modules/
+credentials.json
+token.json
+.tmp/
+brand_assets/
